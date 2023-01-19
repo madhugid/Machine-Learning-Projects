@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Madhusudhan Reddy
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Data Science and Data Analytics
+- 🌱 I’m currently working as a Data Scientist
 - 💞️ I’m looking to collaborate on python, sql, data base and Machine Learning Models
 - 📫 you can reach me at madhugid@gmail.com
 
